@@ -11,7 +11,7 @@ I’m **Aryan** (`Aryan`, reg no `24MEI10046`). I wrote a few small shell script
 - `script3.sh` - Disk and Permission Auditor for a few common folders
 - `script4.sh` - Log file analyzer (counts keyword matches)
 - `script5.sh` - Open Source Manifesto Generator (interactive)
-- `manifesto_Vedang.txt` - Example output from the manifesto generator
+- `manifesto_Aryan.txt` - Example output from the manifesto generator
 
 ## How to run the scripts
 
