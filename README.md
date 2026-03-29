@@ -1,8 +1,8 @@
-# oss-audit-24BAI10789
+# oss-audit-24MEI10046
 
 This is my Open Source Software lab repo for auditing **Git** on **Ubuntu 24.04 (WSL2)**.
 
-I’m **Vedang** (`Vedang`, reg no `24BAI10789`). I wrote a few small shell scripts to pull basic system info, check package info, audit a couple of directories, and scan a log file for keyword matches.
+I’m **Aryan** (`Aryan`, reg no `24MEI10046`). I wrote a few small shell scripts to pull basic system info, check package info, audit a couple of directories, and scan a log file for keyword matches.
 
 ## What’s inside
 
