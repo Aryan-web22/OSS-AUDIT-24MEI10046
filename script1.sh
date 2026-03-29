@@ -1,12 +1,12 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Vedang (24BAI10789)
+# Author: Aryan (24MEI10046)
 # Course: Open Source Software
 # Software Choice: Git
 
 # --- Variables ---
 # Specific details for audit 
-STUDENT_NAME="Vedang"
+STUDENT_NAME="Aryan"
 SOFTWARE_CHOICE="Git"
 
 # --- System info ---
