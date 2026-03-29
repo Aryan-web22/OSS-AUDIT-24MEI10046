@@ -15,7 +15,7 @@ I’m **Aryan** (`Aryan`, reg no `24MEI10046`). I wrote a few small shell script
 
 ## How to run the scripts
 
-From the repo directory (`https://github.com/vedanganand75-crypto/LINUX/tree/main`):
+From the repo directory (`(https://github.com/Aryan-web22/OSS-AUDIT-24MEI10046)`):
 
 1. Make them executable (one-time):
    - `chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh`
